@@ -1,0 +1,24 @@
+#contactoption{
+    font-size: xx-large;
+    color: white;
+}
+
+.fa-phone{
+    background: #a4c639;
+}
+
+.fa-envelope{
+    background: #1f93ad;
+}
+
+.fa-facebook{
+    background: #3B5998;
+}
+
+.fa-linkedin{
+    background: #0275B4;
+}
+
+.fa-whatsapp{
+    background: #36DA54;
+}
